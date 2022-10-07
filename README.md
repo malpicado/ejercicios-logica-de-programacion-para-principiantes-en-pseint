@@ -39,7 +39,12 @@ En este módulo vemos los siguientes temas:
 - un montón de ejercicios de cada tipo de ciclo.
 
 ## Módulo 7: Manejo de arreglos
-Todavía no llegamos a esto
+En este módulo vemos los siguientes temas:
+- Teoria de Manejo de ARREGLOS
+- Declaración de Arreglos
+- Leer valores de un Arreglo
+- Introducir valores a un Arreglo
+- Un montón de ejercicios para practicar.
 
 ## Módulo 8: Manejo de matrices
 Todavía no llegamos a esto
