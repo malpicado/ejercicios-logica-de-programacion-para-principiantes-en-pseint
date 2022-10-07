@@ -18,13 +18,14 @@ Algoritmo SerieFibonacciVPepinillo
 	
 	Para k = 1 Hasta mi_numero Con Paso 1 Hacer
 		Imprimir "iteracion numero : ", k
+		Imprimir a
 		c = a+b
 		Imprimir "siguiente Numero en la serie = ", a, " + ", b, " = ", c
 		a = b
 		b = c	
 	FinPara
 //	Hacer
-//		Imprimir c
+//		Imprimir a
 //		c=a+b
 //		a=b
 //		b=c
