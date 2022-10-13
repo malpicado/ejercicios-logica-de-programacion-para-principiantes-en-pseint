@@ -47,7 +47,13 @@ En este módulo vemos los siguientes temas:
 - Un montón de ejercicios para practicar.
 
 ## Módulo 8: Manejo de matrices
-Todavía no llegamos a esto
+En este módulo vemos los siguientes temas:
+- Teoria de manejo de matrices
+- Declaracion y llenado de una matriz
+- Acceder a elementos de una matriz
+- Iteracion de una matriz
+- Introducir variables a una matriz
+- Un montón de ejercicios para practicar.
 
 ## Módulo 9: Uso de funciones
 Todavía no llegamos a esto
