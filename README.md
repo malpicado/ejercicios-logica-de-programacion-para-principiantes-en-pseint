@@ -56,7 +56,19 @@ En este módulo vemos los siguientes temas:
 - Un montón de ejercicios para practicar.
 
 ## Módulo 9: Uso de funciones
-Todavía no llegamos a esto
+En este módulo vemos los siguientes temas:
+- Uso de funciones
+- Sintaxis de una función
+- Declaración y uso de una función
+- Diferencia entre PARAMETROS y ARGUMENTOS en una función
+- Creación de un PROCEDIMIENTO
+- Copia de la referencia de la memoria RAM
+- Diferencias entre paso por valor y paso por referencia
+- Alcance de variables
+- Refactorización usando funciones y matrices
+- Ejercicios de REFACTORIZACIÓN
+- Funciones RECURSIVAS
+- Ejercicios de RECURSIVIDAD
 
 ## Módulo 10: Cadenas de caracteres
 Todavía no llegamos a esto
