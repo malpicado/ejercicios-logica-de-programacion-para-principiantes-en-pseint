@@ -71,4 +71,16 @@ En este módulo vemos los siguientes temas:
 - Ejercicios de RECURSIVIDAD
 
 ## Módulo 10: Cadenas de caracteres
-Todavía no llegamos a esto
+En este modulo vemos los siguientes temas:
+- Cadena de caracteres
+- Funciones incorporadas
+- Longitud de cadena
+- Subcadenas
+- Concatenacion de cadenas
+- convertir numero a texto
+- Convertir a mayusculas y minusculas una cadena
+- Valor absoluto de un numero
+- Redondeo y Truncado de un numero
+- ejercicios varios
+
+## SE ACABO EL CURSO ADIOS UBALDO
